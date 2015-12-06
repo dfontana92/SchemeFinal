@@ -1,0 +1,20 @@
+Stuff Left To Do:
+
+	Remaining Special Case Evals
+		- Begin		>	Works
+		- Cond		>	Works
+		- If		>	Works
+		- Let		>	Works
+		- Lambda	>	Works
+		- Set		>	Works
+		
+	Remaining Built-In Functions
+		- Double Check IO Functions
+			- Read		> 	Works
+			- Write 	> 	Works
+			- Display 	> 	Works
+			- Newline 	> 	Works
+			
+		- eq? boolean check		>	Not Implemented
+			
+	Comment Cleanup
